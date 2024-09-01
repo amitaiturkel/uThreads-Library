@@ -1,6 +1,4 @@
-Here's a `README.md` file template for your project that explains the purpose of the project and how to run the tests:
 
-```markdown
 # uThreads Project
 
 ## Overview
@@ -15,7 +13,7 @@ The `uThreads` project is an implementation of user-level threads in C++. It inc
   - `test0_sanity.cpp`: Basic sanity tests for the threading library.
   - `test2_two_thread.cpp`: Tests involving two threads.
   - `test0_sanity.txt` and `test2_two_thread.txt`: Expected outputs for the corresponding tests.
-  - `uthreads tests.cpp`: More comprehensive tests.
+  - `uthreads_comprehensive_tests.cpp`: More comprehensive tests.
 - `Makefile`: Build script to compile the project and run tests.
 
 ## Build Instructions
